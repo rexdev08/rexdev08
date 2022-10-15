@@ -1,5 +1,5 @@
 ### Hola, soy Raimundo Rincon 👋🏻👨🏻‍💻
-![alt text](https://www.codewars.com/users/REXrg/badges/large)
+![alt text](https://www.codewars.com/users/rexdev08/badges/large)
 
 <!--
 **rexdev08/rexdev08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
