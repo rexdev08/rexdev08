@@ -2,11 +2,8 @@
 
 ![alt text](https://www.codewars.com/users/rexdev08/badges/large)
 
-💼 [Portafolio](https://rexdev08.github.io/)
-
-🔷 [Twitter](https://twitter.com/RexDev08)
-
 ◽ [Linkedin](https://www.linkedin.com/in/rexdev08/)
+💼 [Portafolio](https://rexdev08.github.io/)
 
 
 Desarrollador web | HTML | CSS | Javascript | SCSS | ReactJS
