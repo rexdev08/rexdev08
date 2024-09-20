@@ -3,6 +3,7 @@
 ![alt text](https://www.codewars.com/users/rexdev08/badges/large)
 
 ◽ [Linkedin](https://www.linkedin.com/in/rexdev08/)
+
 💼 [Portafolio](https://rexdev08.github.io/)
 
 
